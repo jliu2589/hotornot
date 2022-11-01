@@ -1,87 +1,84 @@
-[
-  {
-    "id": 1,
-    "name": "The Last Dab: Apollo",
-    "image": "https://m.media-amazon.com/images/I/51T3gMRdW4L._SL1024_.jpg"
-  },
-  {
-    "id": 2,
-    "name": "Hot Ones x Last Dab - Reaper Edition",
-    "image": "https://m.media-amazon.com/images/I/519TNtIuUCL._SL1024_.jpg"
-  },
-  {
-    "id": 3,
-    "name": "Unique Garlique",
-    "image": "https://cdn.shopify.com/s/files/1/2086/9287/products/Puckerbutt-Unique-Garlique-Hot-Sauce-5-oz-1_816d2197-129b-48de-9d1c-e60bae41d577.jpg?v=1663790765&width=680"
-  },
-  {
-    "id": 4,
-    "name": "Hot Ones x Last Dab - Reaper Edition",
-    "image": "https://cdn.shopify.com/s/files/1/0188/0032/products/da-bomb-evolution-hot-sauce-heat-level-08-meta-related-collection-spicin-foods-chilly-chiles-bottle-liquid-food-ingredient-beverage-969.jpg"
-  },
-  {
-    "id": 5,
-    "name": "Hot Ones x Last Dab - Reaper Edition",
-    "image": "https://cdn.shopify.com/s/files/1/0188/0032/products/da-bomb-evolution-hot-sauce-heat-level-08-meta-related-collection-spicin-foods-chilly-chiles-bottle-liquid-food-ingredient-beverage-969.jpg"
-  },
-  {
-    "id": 6,
-    "name": "Psycho Hot sauce",
-    "image": "https://cdn.shopify.com/s/files/1/2086/9287/products/HOTONES-SEASON18-psycho.jpg?v=1652731381&width=680"
-  },
-  {
-    "id": 7,
-    "name": "Heatonist No.1 - Sichuan Ghost Pepper Hot Sauce",
-    "image": "https://cdn.shopify.com/s/files/1/2086/9287/products/IMG_5971-Edit.jpg?v=1657580017&width=680"
-  },
-  {
-    "id": 8,
-    "name": "Extra mean Green hot sauce",
-    "image": "https://cdn.shopify.com/s/files/1/2086/9287/products/EXTRAMEANGREEN_796ba102-a2aa-4793-81c1-0f9ce3923b46.jpg?v=1641842760&width=680"
-  },
-  {
-    "id": 9,
-    "name": "Kranked Hot Sauce",
-    "image": "https://cdn.shopify.com/s/files/1/2086/9287/products/hotones-kranked-hotsauce.jpg?v=1631223105&width=680"
-  },
-  {
-    "id": 10,
-    "name": "Scorpion Disco Hot Sauce",
-    "image": "https://cdn.shopify.com/s/files/1/2086/9287/products/scorpionDisco.jpg?v=1628210074&width=680"
-  },
-  {
-    "id": 11,
-    "name": "XXX Ghot Pepper Mash",
-    "image": "https://cdn.shopify.com/s/files/1/2086/9287/products/1047102521353.jpg?v=1628202950&width=680"
-  },
-  {
-    "id": 12,
-    "name": "Chipolte eXpress Hot Sauce",
-    "image": "https://cdn.shopify.com/s/files/1/2086/9287/products/chipotleexpress.jpg?v=1628212837&width=680"
-  },
-  {
-    "id": 13,
-    "name": "Extra mean Green hot sauce",
-    "image": "https://cdn.shopify.com/s/files/1/2086/9287/products/EXTRAMEANGREEN_796ba102-a2aa-4793-81c1-0f9ce3923b46.jpg?v=1641842760&width=680"
-  },
-  {
-    "id": 14,
-    "name": "Burn After Eating Hot Sauce",
-    "image": "https://cdn.shopify.com/s/files/1/2086/9287/products/burnafter.jpg?v=1628209938&width=680"
-  },
-  {
-    "id": 15,
-    "name": "The Last Dab XXX",
-    "image": "https://cdn.shopify.com/s/files/1/2086/9287/products/dabxxx1.jpg?v=1628209214&width=680"
-  },
-  {
-    "id": 16,
-    "name": "Pierdealmas Hot Sauce",
-    "image": "https://cdn.shopify.com/s/files/1/2086/9287/products/Monoloco.jpg?v=1628211893&width=680"
-  },
-  {
-    "id": 17,
-    "name": "Widow Maker Hot Sauce",
-    "image": "https://cdn.shopify.com/s/files/1/2086/9287/products/widowmaker.jpg?v=1628203011&width=680"
-  }
-]
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "The Last Dab: Apollo",
+      "image": "/img/The Last Dab - Apollo.png"
+    },
+    {
+      "id": 2,
+      "name": "Hot Ones x Last Dab - Reaper Edition",
+      "image": "/img/The Last Dab - Reaper.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Unique Garlique",
+      "image": "/img/unique garlique.png"
+    },
+    {
+      "id": 4,
+      "name": "Hot Ones x Last Dab - XXX",
+      "image": "/img/The Last Dab XXX.png"
+    },
+    {
+      "id": 5,
+      "name": "Da Bomb Evolution",
+      "image": "/img/Burn After Eating Hot Sauce.png"
+    },
+    {
+      "id": 6,
+      "name": "Psycho Hot sauce",
+      "image": "/img/Psycho Hot Sauce.png"
+    },
+    {
+      "id": 7,
+      "name": "Heatonist No.1 - Sichuan Ghost Pepper Hot Sauce",
+      "image": "/img/Heatonist No.1 - Sichuan Ghost Pepper Hot Sauce.png"
+    },
+    {
+      "id": 8,
+      "name": "Extra mean Green hot sauce",
+      "image": "/img/Extra mean Green hot sauce.png"
+    },
+    {
+      "id": 9,
+      "name": "Kranked Hot Sauce",
+      "image": "/img/Kranked Hot Sauce.png"
+    },
+    {
+      "id": 10,
+      "name": "Scorpion Disco Hot Sauce",
+      "image": "/img/Scorpion Disco Hot Sauce.png"
+    },
+    {
+      "id": 11,
+      "name": "XXX Ghost Pepper Mash",
+      "image": "/img/XXX Ghost Pepper Mash.png"
+    },
+    {
+      "id": 12,
+      "name": "Chipolte eXpress Hot Sauce",
+      "image": "/img/Chipolte eXpress Hot Sauce.png"
+    },
+    {
+      "id": 13,
+      "name": "Burn After Eating Hot Sauce",
+      "image": "/img/Burn After Eating Hot Sauce.png"
+    },
+    {
+      "id": 14,
+      "name": "The Classic Hot Sauce - Pepper X Edition",
+      "image": "/img/The Classic Hot Sauce - Pepper X Edition.png"
+    },
+    {
+      "id": 15,
+      "name": "Pierdealmas Hot Sauce",
+      "image": "/img/Pierdealmas Hot Sauce.png"
+    },
+    {
+      "id": 16,
+      "name": "Widow Maker Hot Sauce",
+      "image": "/img/Widow Maker Hot Sauce.png"
+    }
+  ]
+}
